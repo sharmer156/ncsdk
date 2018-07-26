@@ -1,3 +1,9 @@
+有关资源
+一个完整的安装教程：https://www.pyimagesearch.com/2018/02/19/real-time-object-detection-on-the-raspberry-pi-with-the-movidius-ncs/
+检测演示视频： https://www.youtube.com/watch?v=jMcrbhIa9EA
+可支持多量性USB扩展（一个同时检测大概10个，输入图片也有限制？）：https://www.pyimagesearch.com/2018/02/19/real-time-object-detection-on-the-raspberry-pi-with-the-movidius-ncs/
+官方网址：https://developer.movidius.com/start?sf185387807=1
+
 # Intel® Movidius™ Neural Compute SDK
 This Intel® Movidius™ Neural Compute software developer kit (NCSDK) is provided for users of the [Intel® Movidius™ Neural Compute Stick](https://developer.movidius.com/) (Intel® Movidius™ NCS). It includes software tools, an API, and examples, so developers can create software that takes advantage of the accelerated neural network capability provided by the Intel Movidius NCS hardware.
 
